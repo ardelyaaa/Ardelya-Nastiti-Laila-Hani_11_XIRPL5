@@ -6,4 +6,6 @@ kelas : XI RPL 5
 <br>
 absen : 11 <br>
 
-<img src="
+https://github.com/ardelyaaa/Ardelya-Nastiti-Laila-Hani_11_XIRPL5/blob/master/awal.JPG
+
+https://github.com/ardelyaaa/Ardelya-Nastiti-Laila-Hani_11_XIRPL5/blob/master/total.JPG
